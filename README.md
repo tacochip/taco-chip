@@ -21,7 +21,6 @@ We are building a **web server** that simulates the **WSU Registration Portal**,
 - Dynamic routing for majors and course listings  
 - Emphasis on **collaborative software engineering practices**  
 
-🎨 **Preview (Concept)**  
 
 
 ---
