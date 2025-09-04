@@ -1,4 +1,4 @@
-# ✨ Charles Ojanama  
+#  Charles Ojanama  
 
 ## 👨‍💻 Computer Engineering Student | Wright State University  
 
